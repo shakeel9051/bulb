@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+}
+.bulb{
+    margin-left: 250px;
+    height:350px;
+     width:250px;
+}
+.hi{
+    height:75px;
+    width:400px;
+    margin: auto;
+}
+.bf,.bo{
+    height: 55px;
+    width: 150px;
+}
